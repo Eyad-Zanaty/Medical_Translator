@@ -1,0 +1,50 @@
+{
+  "en": {
+    "terms": {
+      "hypertension": "High blood pressure",
+      "myocardial infarction": "Heart attack",
+      "diabetes mellitus": "A metabolic disorder with high blood sugar",
+      "pneumonia": "Lung inflammation caused by infection",
+      "asthma": "Chronic respiratory condition",
+      "arthritis": "Joint inflammation",
+      "bronchitis": "Inflammation of bronchial tubes",
+      "gastritis": "Stomach lining inflammation",
+      "dermatitis": "Skin inflammation",
+      "tachycardia": "Abnormally rapid heart rate",
+      "hypotension": "Low blood pressure",
+      "arrhythmia": "Irregular heartbeat",
+      "dyspnea": "Difficulty breathing",
+      "anemia": "Low red blood cell count",
+      "hypothyroidism": "Underactive thyroid",
+      "hyperthyroidism": "Overactive thyroid",
+      "osteoporosis": "Bone density loss",
+      "nephritis": "Kidney inflammation",
+      "hepatitis": "Liver inflammation",
+      "meningitis": "Brain membrane inflammation"
+    },
+    "common_prefixes": [
+      "hyper",
+      "hypo",
+      "brady",
+      "tachy",
+      "poly",
+      "anti",
+      "dys",
+      "hemi",
+      "macro",
+      "micro"
+    ],
+    "common_suffixes": [
+      "itis",
+      "emia",
+      "algia",
+      "osis",
+      "pathy",
+      "ectomy",
+      "plasty",
+      "gram",
+      "scope",
+      "tomy"
+    ]
+  }
+}
